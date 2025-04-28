@@ -25,7 +25,7 @@ The goal is to extract insights using statistical summaries and visualization te
 
 ## 📁 Files Included
 
-- `Task_5_EDA.ipynb` – Jupyter Notebook containing the full EDA process
+- `EDA.ipynb` – Jupyter Notebook containing the full EDA process
 - `EDA pdf.pdf` – PDF report summarizing findings
 - `train.csv` – Dataset file 
 - `README.md` – This file
